@@ -1,0 +1,15 @@
+Comandos vue:
+
+	vue create nombreProyecto
+	npm run serve
+	npm i vue-router@next --save
+	npm i axios --save
+
+
+Comandos angular:
+	
+	ng new primerangular --standalone=false
+	ng serve
+
+	ng g component components/nombre
+	ng g service services/nombre
